@@ -49,7 +49,7 @@ competencies: Front-end intro
 --
 # <a name="what-is-jquery">WHAT IS JQUERY?</a>
 
-![alt text](youdo.jpg)
+![Imgur](http://i.imgur.com/ylb6WX9.gif)
 <details>
   <summary>What is jQuery?</summary>
     <br>
@@ -145,6 +145,8 @@ We would then add the link inside the `head` section of our `html` like so:
 	</body>
 </html>
 ```
+<br>
+![wedo](http://i.imgur.com/6Kce0ca.png) 
 
 **WE DO (60 seconds)** -- Paste the URL directly in the broswer. What happens?
 
@@ -326,7 +328,7 @@ There are three things about the example above that make jQuery easier to use:
 3. jQuery deals with any cross-browser compatibility issues, which may not seem like a big deal in this example, but which quickly become difficult to deal with as things get more complex
 
 
-![alt text](you-do-1.gif)
+![Imgur](http://i.imgur.com/ylb6WX9.gif)
 
 **Open the `student_starter` code and change the content of the `title` element.**
 
